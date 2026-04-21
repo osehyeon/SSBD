@@ -1,2 +1,3 @@
-# Algorithm 
-Algorithm
+# Requantize 
+UPWARD(HALF-UP)
+
